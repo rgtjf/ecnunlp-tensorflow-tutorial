@@ -7,7 +7,8 @@ Tensorflow Tutorial, especially in NLP.
 ## Refs
 - http://adventuresinmachinelearning.com/python-tensorflow-tutorial/
 - https://www.tensorflow.org/tutorials/layers
-- 
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
 
 ## Outline
 
@@ -36,3 +37,7 @@ Tensorflow Tutorial, especially in NLP.
   - reinforcement learning
   - gan
   - resnet
+
+## Pytorch
+  - [pytorch nlp](http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
+  

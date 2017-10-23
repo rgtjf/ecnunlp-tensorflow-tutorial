@@ -5,6 +5,9 @@ Tensorflow Tutorial, especially in NLP.
 - ppt, paper, code
 
 ## Refs
+- http://adventuresinmachinelearning.com/python-tensorflow-tutorial/
+- https://www.tensorflow.org/tutorials/layers
+- 
 
 ## Outline
 
@@ -19,6 +22,7 @@ Tensorflow Tutorial, especially in NLP.
 ## Run a model
   - CNN/LSTM/attention
   - objective function
+  - seq2seq
   
 ## Hyper-parameters
   - optimizer

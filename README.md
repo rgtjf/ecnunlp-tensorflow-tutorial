@@ -13,7 +13,13 @@ Tensorflow Tutorial, especially in NLP.
 ## Outline
 
 ## How to install
-- version
+- [Install CUDA](https://www.tensorflow.org/install/install_linux)
+- install tensorflow
+  ```bash
+  pip install tensorflow-gpu==1.0.1
+  # or
+  pip install tensorflow-gpu==1.2.0
+  ```
 
 ## Background
 
@@ -30,7 +36,7 @@ Tensorflow Tutorial, especially in NLP.
   - learning rate
   - dropout
 
-## homework
+## Homework
   - text classifcation task
 
 ## More

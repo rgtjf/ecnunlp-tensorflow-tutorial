@@ -47,3 +47,8 @@ Tensorflow Tutorial, especially in NLP.
 ## Pytorch
   - [pytorch nlp](http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)
   
+
+---
+Update 2017.10.30
+## Homework
+- [tf-classifcation](https://github.com/rgtjf/tf-classification)

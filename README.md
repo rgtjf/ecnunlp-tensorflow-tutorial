@@ -42,7 +42,7 @@ Tensorflow Tutorial, especially in NLP.
 ## More
   - reinforcement learning
   - gan
-  - resnet
+  - [resnet](https://github.com/tensorflow/models/blob/master/official/resnet/resnet_model.py)
 
 ## Pytorch
   - [pytorch nlp](http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html)

@@ -3,9 +3,9 @@
 ## Goal
 
 - Component in Tensorflow
-  - RNN: LSTM / GRU
+  - RNN: LSTM / GRU ([RNN](./ecnunlp-tensorflow-tutorial-ii.ipynb), [slides](./cs224n-2017-rnn.pdf))
   - Attention Mechanism
-  - Adversarial Training
+  - GAN ([GAN](./gan.ipynb), [DCGAN](./dcgan.ipynb)) 
 
 Next: 
 - Pointer-Generator Networks

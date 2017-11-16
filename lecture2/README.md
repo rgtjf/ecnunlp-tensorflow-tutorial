@@ -280,4 +280,6 @@ def bilinear_attention(question_rep, passage_repres, passage_mask):
 
 
 - [GAN]
-    - []()
+    - [GAN](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/gan.ipynb)
+    - [DCGAN](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/dcgan.ipynb)
+    - [text-to-image](https://github.com/zsdonghao/text-to-image)

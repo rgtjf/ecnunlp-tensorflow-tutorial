@@ -52,3 +52,23 @@ Tensorflow Tutorial, especially in NLP.
 Update 2017.10.30
 ## Homework
 - [tf-classifcation](https://github.com/rgtjf/tf-classification)
+
+
+--- 
+Update 2017.11.18
+## Lecture 1
+- Tensorflow, Computation Graph, Placeholder, Variables, Operations
+- data(x, y), model(train, predict), main(feed_dict, session)
+- broadcast, conv2d
+- Tensorflow in NLP, word embeddings, padding, mask
+- Task, nlpcc2017\_news\_headline\_categorization
+
+## Lecture 2
+- BiLSTM (BasicLSTMCell, bidirectional\_dynamic\_rnn, outputs, state)
+- RNN (vanish gradient) 
+  - clipper
+  - carefully init, sigmoid -> tanh/relu
+  - add memory cell: LSTM (input gate, forget gate, output gate), GRU (reset gate, update gate)
+- Attention 
+- GAN
+  - generator, discriminator
